@@ -29,11 +29,15 @@ The Program: <br/>
 Blank Gui after compiling:  <br/>
 <img src="https://i.imgur.com/oAMe9km.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br/>
 All Boxes filled out before calculating:  <br/>
 <img src="https://i.imgur.com/Nk6PRoF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <br/>
 Finished result after calculating:  <br/>
 <img src="https://i.imgur.com/MKfTbAT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br/>
 </p>
 
 <!--
